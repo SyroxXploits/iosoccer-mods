@@ -3,7 +3,7 @@
   "version": "1.0",
   "description": "Stylish gloves for your players.",
   "image_url": "https://media.discordapp.net/attachments/1169613799901380659/1169613800140439592/image.png?ex=683069bc&is=682f183c&hm=b114844f268dc3bf30c4af72ce7fdb0c90ad23a8f1942ab4a0e68f668cf89282&=&format=webp&quality=lossless",
-  "additional_images": [
+  "gallery": [
     "https://example.com/image1.png",
     "https://example.com/image2.png"
   ]
