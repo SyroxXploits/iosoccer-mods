@@ -1,11 +1,10 @@
 {
-  "name": "nike gloves",
+  "name": "Nike Gloves",
   "version": "1.0",
-  "description": "Some nike gloves",
-  "install_dir": "IOsoccer\\iosoccer\\",
-  "files": [
-    "iosoccer\\materials\\models\\player\\default\\skins"
-  ],
-  "download_url": "https://cdn.discordapp.com/attachments/1169613799901380659/1169614272616202361/Nike_Gloves.rar",
-  "image_url": "https://media.discordapp.net/attachments/1169612735680610384/1169612736213291159/001.png?ex=683068be&is=682f173e&hm=80d430fe5fbda15cc9ac2358339dab3eb9224821399ad2162c48eaa291d170d0&=&format=webp&quality=lossless"
+  "description": "Stylish gloves for your players.",
+  "thumbnail": "https://media.discordapp.net/attachments/1169613799901380659/1169613800140439592/image.png?ex=683069bc&is=682f183c&hm=b114844f268dc3bf30c4af72ce7fdb0c90ad23a8f1942ab4a0e68f668cf89282&=&format=webp&quality=lossless",
+  "additional_images": [
+    "https://example.com/image1.png",
+    "https://example.com/image2.png"
+  ]
 }
