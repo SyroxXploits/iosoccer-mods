@@ -1,9 +1,9 @@
 {
-  "name": "Boots",
+  "name": "Animated Boots",
   "version": "1.0",
-  "description": "Stylish boots for your players.",
+  "description": "Animated galaxy boots",
   "tags": ["graphics", "visuals", "lighting"],
-  "author": "ModCreator",
+  "author": "Snake",
   "image_url": "https://media.discordapp.net/attachments/1223317029952684092/1223317030439096380/image.png?ex=6830aac4&is=682f5944&hm=e992d7c66ca5ed0045aabb78050adf5e901d39ab4993d57ccfbe4d1785eb08c5&=&format=webp&quality=lossless",
   "gallery": [
     "https://example.com/image1.png",
