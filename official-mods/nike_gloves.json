@@ -1,0 +1,12 @@
+{
+  "name": "Nike",
+  "version": "1.0",
+  "description": "Stylish gloves for your players.",
+  "tags": ["graphics", "visuals", "lighting"],
+  "author": "ModCreator",
+  "image_url": "https://media.discordapp.net/attachments/1169613799901380659/1169613800140439592/image.pngg",
+  "gallery": [
+    "https://example.com/image1.png",
+    "https://example.com/image2.png"
+  ]
+}
