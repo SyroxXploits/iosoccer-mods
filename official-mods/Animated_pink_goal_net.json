@@ -1,1 +1,9 @@
-
+{
+  "name": "Animated pink goal net",
+  "version": "1.0",
+  "description": "a nice animated goal net",
+  "tags": ["goal", "material", "texture"],
+  "author": "SyRoX",
+  "download_url": "https://cdn.discordapp.com/attachments/1169617090576138241/1375361446283575366/Pink_goal_net.rar?ex=683168a9&is=68301729&hm=04b2327b242ac370ba55627cbecf8c2398df94baed37fd7b0394b0a6c385264b&",
+  "image_url": "https://media.discordapp.net/attachments/1169617090576138241/1169617702416031795/image.png?ex=6831161e&is=682fc49e&hm=13cd20736ac2adfdbe0c2a2bb0c98871a42fd017d8fc7c2a241ab03599bec7f7&=&format=webp&quality=lossless"
+}
