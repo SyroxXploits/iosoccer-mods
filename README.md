@@ -26,5 +26,12 @@ Iosoccer Mod Manager is an open-source application designed to simplify the inst
    ```bash
    git clone https://github.com/SyroxXploits/iosoccer-mods.git
 
+### Usage (packed exe)
+
+1. Go to "releases"
+2. Download Iosoccer Mod Manager.zip
+3. Extract and run the exe
+
+
 ### Support
 [![Discord](https://img.shields.io/badge/Join%20Discord-7289da?logo=discord&logoColor=white&style=flat)](https://discord.gg/vSTvNs9ENJ)
